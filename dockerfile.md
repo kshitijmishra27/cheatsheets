@@ -13,7 +13,7 @@ FROM <image>:<tag>
 ```
 Example
 ```sh
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 ```
 
 ## ENV
